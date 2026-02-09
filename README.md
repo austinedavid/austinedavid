@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Gmode Agency**
+- 🔭 I’m currently working on **Next College** 
 
-- 🌱 I’m currently learning **React native, python**
+- 🌱 I’m currently learning **Langchain for Agentic AI, Machine learning**
 
-- 💬 Ask me about **html, css, javascript, react, nodejs especially using express**
+- 💬 Ask me about **Nodejs, React, Nestjs, FastApi, Python and Javascript**
 
 - 📫 How to reach me **austinedavid@gmail.com (or put a call on 08145508195)**
 
-- ⚡ Fun fact **I think I am going to change this tech space**
+- ⚡ Fun fact **How can I go far in this space if I don't help others rise**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
