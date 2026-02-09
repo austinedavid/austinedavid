@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://drive.google.com/file/d/16qZYOrPZXXS-ZD-fRwZp3j6AfzopYBk9/view?usp=sharing))]
+[![MasterHead]([https://res.cloudinary.com/dkqhcpukz/image/upload/v1770674823/banner_d2bv7q.png])]
 <h1 align="center">Hi 👋, I'm AustineDavid</h1>
 <h3 align="center">A passionate full stack developer from Nigeria</h3>
 <img align="right" alt="great programmer" width="400px" src="https://jayamwebsolutions.com/img/website.gif"/>
